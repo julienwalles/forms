@@ -1,0 +1,12 @@
+.formulaire {
+    background-image: url(https://www.hlpdeveloppement.fr/wp-content/uploads/2019/09/2.jpg;);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+input, textarea{
+    background-color: lightgreen;
+}
+
