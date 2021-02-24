@@ -1,0 +1,88 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    display: inline;
+    float: left;
+
+  }
+  
+  li a {
+    display: block;
+    padding: 15px;
+    background-color: #dddddd;
+  }
+  
+.en-tête {
+    background-color: lightslategrey;    
+}
+
+.mon-mini-site {
+    text-align: center;
+    background-color: lightslategrey;  
+}
+.formulaire {
+    background-color: lightseagreen;
+    font-weight: bold; 
+}
+
+.page {
+    background-color: rgb(140, 235, 222);
+    padding-left: 2%;
+}
+.bloc_un label {
+        
+	        display: block;
+	        width: 150px;
+	        float: left;
+}
+
+.bloc_un {
+    background-image: url(https://www.hlpdeveloppement.fr/wp-content/uploads/2019/09/2.jpg;);
+    padding: 35px;
+    border: #dc143c;
+    border-style: double;
+    margin: 10px 350px 10px;
+    margin-block-start: 0;
+}
+
+.bloc_deux {
+    background-image: url(https://www.hlpdeveloppement.fr/wp-content/uploads/2019/09/2.jpg;);
+    padding: 35px;
+    border: #dc143c;
+    border-style: double;
+    margin: 10px 350px 10px;
+    margin-block-start: 0;
+}
+
+.mot_de_passe {
+    background-image: url(https://www.hlpdeveloppement.fr/wp-content/uploads/2019/09/2.jpg;);
+    padding: 35px;
+    border: #dc143c;
+    border-style: double;
+    margin: 10px 350px 10px;
+}
+input, textarea{
+    background-color: rgb(235, 245, 237);
+}
+
+legend {
+    background-color: #000;
+    color: rgb(167, 197, 30);
+    padding: 2px 3px;
+}
+
+.pied {
+    background-color: rgb(61, 219, 132);
+    line-height: 1500%;
+}
+
+p {
+    margin-block-start: 0; 
+    background-color: rgb(140, 235, 222); 
+}
